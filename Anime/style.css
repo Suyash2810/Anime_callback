@@ -1,0 +1,25 @@
+.box{
+    width: 60px;
+    height: 60px;
+    background-color: #554545;
+    color: #554545;
+    margin-top: 50px;
+
+}
+
+.container{
+    position: absolute;
+    left: 30%;
+    top: 20%;
+    display: block;
+    
+}
+
+.jumbotron{
+    width: 25%;
+   
+}
+
+#edit{
+    border-color: transparent;
+}
